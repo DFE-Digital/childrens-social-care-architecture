@@ -1,5 +1,5 @@
 # Host to use for canonical URL generation (without trailing slash)
-host:
+host: https://dfe-digital.github.io/childrens-social-care-architecture
 
 # Header-related options
 show_govuk_logo: true
@@ -9,10 +9,10 @@ phase: Alpha
 
 # Links to show on right-hand-side of header
 header_links:
-  About: /about
-  Get Started: /get-started
-  Documentation: /
-  Support: /support
+  About: /childrens-social-care-architecture/about
+  Get Started: /childrens-social-care-architecture/get-started
+  Documentation: /childrens-social-care-architecture
+  Support: /childrens-social-care-architecture/support
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: false
