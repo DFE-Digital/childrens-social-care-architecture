@@ -2,7 +2,7 @@
 host: https://dfe-digital.github.io/childrens-social-care-architecture
 
 # Header-related options
-show_govuk_logo: true
+show_govuk_logo: false
 service_name: Childrens Social Care
 service_link: https://dfe-digital.github.io/childrens-social-care-architecture
 phase: Alpha
