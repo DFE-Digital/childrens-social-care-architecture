@@ -1,21 +1,15 @@
-# Hello, World!
+# Technical Documentation Overview
 
-## Edit Me!
+## About
 
-Open `source/documentation/index.md` in your favourite text editor and start editing!
+This is the Technical Documentation supporting the Alpha phase of the Children Social Care Placement Service.
 
-You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
+## Overview
 
-This means you can use things like tables:
+The Service Team have decided to the [C4 Model] to visualise the architecture for the service.
 
-Food | Kind | Tasty?
---- | --- | ---
-Bananas | Fruit | Yes
-Aubergines | Vegetable | No
-Apricots | Fruit | Yes
+Architecture Decision Records (ADRs) as described in this [ADR Blog Post] are also used to record key decisions.
 
-To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
+## Support
 
-If you want slightly more control, you can always use <strong>HTML</strong>.
-
-For more detail and troubleshooting, take a look at the `README.md` file in the root of this project.
+To get support please use the [Service Team Email].
