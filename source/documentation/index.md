@@ -13,5 +13,3 @@ Architecture Decision Records (ADRs) as described in this [ADR Blog Post] are al
 ## Support
 
 To get support please use the [Service Team Email].
-
-Call Ghostbusters.
