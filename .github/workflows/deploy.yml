@@ -1,6 +1,6 @@
 # ./github/workflows/deploy.yml
 
-name: Deploy Middleman to GH Pages
+name: Deploy Middleman to GOVUK PaaS
 
 on:
   push:
