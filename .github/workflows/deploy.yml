@@ -49,7 +49,7 @@ jobs:
         run: npm install
 
       - name: Build Middleman
-        run: bundle exec middleman build --build-dir docs --relative-links
+        run: bundle exec middleman build --relative-links
 
       - name: Deploy to Github Pages
         uses: peaceiris/actions-gh-pages@v3
