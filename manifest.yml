@@ -1,0 +1,7 @@
+---
+applications:
+- name: childrens-social-care-technical-documentation
+  memory: 32M
+  buildpacks:
+  - staticfile_buildpack
+  path: ./build/
