@@ -9,10 +9,11 @@ phase: Alpha
 
 # Links to show on right-hand-side of header
 header_links:
-  Overview: /#technical-documentation-overview
-  C4 Model: /c4model
-  Decisions: /adrs
-  GitHub Repo: https://github.com/DFE-Digital/childrens-social-care-architecture
+  About: /
+  Architecture: /c4model
+  Environments: /environments
+  Decisions: /decisions
+  Support: /support
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
