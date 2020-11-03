@@ -1,10 +1,10 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://dfe-digital.github.io/childrens-social-care-architecture
+host: https://childrens-social-care-technical-documentation.london.cloudapps.digital/
 
 # Header-related options
 show_govuk_logo: false
 service_name: Childrens Social Care
-service_link: https://dfe-digital.github.io/childrens-social-care-architecture
+service_link: https://childrens-social-care-technical-documentation.london.cloudapps.digital/
 phase: Alpha
 
 # Links to show on right-hand-side of header
