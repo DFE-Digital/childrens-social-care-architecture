@@ -3,7 +3,7 @@ host: https://childrens-social-care-technical-documentation.london.cloudapps.dig
 
 # Header-related options
 show_govuk_logo: false
-service_name: Childrens Social Care
+service_name: Childrens Social Care - Technical Documentation
 service_link: https://childrens-social-care-technical-documentation.london.cloudapps.digital/
 phase: Alpha
 
