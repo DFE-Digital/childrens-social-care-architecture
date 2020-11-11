@@ -1,0 +1,34 @@
+---
+title: 005. Monolith First
+weight: 2
+hide_in_navigation: true
+parent: /decisions
+last_reviewed_on: 2020-11-11
+review_in: 7 weeks
+---
+
+# 005. Monolith First
+
+Date: 2020-11-11
+
+## Status
+
+Approved
+
+## Context
+
+The CSC Placement service is taking an [Evolutionary Architecture] approach.
+
+## Decision
+
+Since we are in a highly uncertain phase of the Service, and we want to optimise around developer productivity and feature prototyping, the adoption of a [Monolith First] architecture is considered best.
+
+Although Martin Fowler uses this as a precursor for a [Microservice Architecture], it is not definite here regarding a transition to Microservices, but rather a reasonable step before deciding furture architural quanta.
+
+## Consequences
+
+A successfully delivered Service will be rearchitected further down the line, but this will be based on real world data and feedback loops, allowing less costly optimisation at that deferred date.
+
+It can be seen as an application of the [Last Responsible Moment] principle from [Lean].
+
+<%= partial 'partials/links' %>
